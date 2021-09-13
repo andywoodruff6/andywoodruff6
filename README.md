@@ -10,6 +10,9 @@ Here are some ideas to get you started: -->
 - 👯 I’m looking to collaborate on <b>Block Chain Projects</b> and <b>Data Analysis Projects</b>
 - ⚡ Fun fact: <b>I love to ride bicycles.</b>
 
+[![Andy's GitHub stats](https://github-readme-stats.vercel.app/api?username=andywoodruff6)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### How to reach me: 📫
 
 [<img align="left" alt="andywoodruff6 | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
