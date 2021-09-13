@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Andy
 
-## I'm a Mechanical Engineer moving towards the digital world.
+## I'm an Engineer diving head first into the world of blockchain.
 
 <!--
 **andywoodruff6/andywoodruff6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,13 @@ Here are some ideas to get you started: -->
 
 ### How to reach me: 📫
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Twitter" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+![Twitter URL](https://img.shields.io/twitter/url?label=Follow%20Me&style=social&url=https%3A%2F%2Ftwitter.com%2FWoodruffAndy)
 <br>
+
+
+
 ### I'm Learning
 - Plutus
 - Solidity
@@ -32,3 +37,4 @@ Here are some ideas to get you started: -->
 
 
 [linkedin]: https://www.linkedin.com/in/andrew-woodruff-72b70075/
+[twitter]: https://twitter.com/WoodruffAndy
