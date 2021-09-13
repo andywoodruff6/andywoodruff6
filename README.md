@@ -16,7 +16,6 @@ Here are some ideas to get you started: -->
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Twitter" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-![Twitter URL](https://img.shields.io/twitter/url?label=Follow%20Me&style=social&url=https%3A%2F%2Ftwitter.com%2FWoodruffAndy)
 <br>
 
 
@@ -28,11 +27,12 @@ Here are some ideas to get you started: -->
 - CSS
 - Python
 - SQL
+<br>
+<!-- 
+![Twitter URL](https://img.shields.io/twitter/url?label=Follow%20Me&style=social&url=https%3A%2F%2Ftwitter.com%2FWoodruffAndy)
 
 
-
-
-
+-->
 
 
 
