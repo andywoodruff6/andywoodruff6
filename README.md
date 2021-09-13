@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Andy
 
-## I'm an Engineer diving head first into the world of blockchain.
+## I'm an Application Engineer diving head first into the world of blockchain.
 
 <!--
 **andywoodruff6/andywoodruff6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
