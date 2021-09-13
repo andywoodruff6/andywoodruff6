@@ -20,22 +20,12 @@ Here are some ideas to get you started: -->
 [<img align="left" alt="andywoodruff6 | Gmail" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 <br>
 
-
-
 ### I'm Learning
 - Plutus 
 - Solidity
 - Python
 - SQL
 <br>
-<!-- 
-
-
-
--->
-
-
-
 [linkedin]: https://www.linkedin.com/in/andrew-woodruff-72b70075/
 [twitter]: https://twitter.com/WoodruffAndy
 [gmail]: andywoodruff6@gmail.com
