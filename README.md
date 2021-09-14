@@ -20,7 +20,7 @@ Here are some ideas to get you started: -->
 ![Twitter URL](https://img.shields.io/twitter/url?label=Follow%20Me&style=social&url=https%3A%2F%2Ftwitter.com%2FWoodruffAndy)
 <br>
 
-<div align="center"> DEDICATION OVER MOTIVATION </div>
+# <div align="center"> DEDICATION OVER MOTIVATION </div>
 
 ### I'm Learning
 - Plutus 
