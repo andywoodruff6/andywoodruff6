@@ -1,12 +1,12 @@
 # Hi there 👋 I'm Andy
 
-## I'm an Application Engineer diving head first into the world of blockchain.
+## I'm an Smart Contract Dev who also loves data analysis.
 
 <!--
 **andywoodruff6/andywoodruff6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on <b>becoming a smart contract / blockchain developer</b>
+- 🔭 I’m currently working on: <b>Improving my olidity and Java Script to become an expert smart contract developer</b>
 - 👯 I’m looking to collaborate on <b>Block Chain Projects</b> and <b>Data Analysis Projects</b>
 - ⚡ Fun fact: <b>I love to ride bicycles.</b>
 
@@ -24,8 +24,8 @@ Here are some ideas to get you started: -->
 # DEDICATION OVER MOTIVATION
 
 ### I'm Learning
-- Plutus 
 - Solidity
+- Java Script
 - Python
 - SQL
 <br>
