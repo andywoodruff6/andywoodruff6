@@ -6,7 +6,7 @@
 **andywoodruff6/andywoodruff6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on: <b>Improving my olidity and Java Script to become an expert smart contract developer</b>
+- 🔭 I’m currently working on: <b>Improving my Solidity and Java Script to become an expert smart contract developer</b>
 - 👯 I’m looking to collaborate on <b>Block Chain Projects</b> and <b>Data Analysis Projects</b>
 - ⚡ Fun fact: <b>I love to ride bicycles.</b>
 
