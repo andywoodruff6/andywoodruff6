@@ -14,7 +14,7 @@ Here are some ideas to get you started: -->
 ### Reach me on Twitter: ![Twitter URL](https://img.shields.io/twitter/url?label=Follow%20Me&style=social&url=https%3A%2F%2Ftwitter.com%2FWoodruffAndy)
 <br>
 
-# Check Out my [Personal Website](andywoodruff6.github.io)
+# Check Out my [Personal Website](https://andywoodruff6.github.io/#home)
 
 ### My motto:
 # DEDICATION OVER MOTIVATION
