@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Andy
 
-## I'm a Product Owner in the Blockchain Industry.
+## I'm a Product Owner who can code.
 
 <!--
 **andywoodruff6/andywoodruff6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,6 +25,6 @@ DEDICATION OVER MOTIVATION
 - Ultra Learning Frameworks
 <br>
 
-[![Andy's GitHub stats](https://github-readme-stats.vercel.app/api?username=andywoodruff6)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Andy's GitHub stats](https://github-readme-stats.vercel.app/api?username=andywoodruff6)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [twitter]: https://twitter.com/WoodruffAndy
