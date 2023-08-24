@@ -6,7 +6,7 @@
 **andywoodruff6/andywoodruff6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started: -->
 - ✈  Previous Smart Contract Dev for Upstate Interactive. 
-- 🔭 I’m currently working on: <b>Atala PRISM and SSI </b>
+- 🔭 I’m currently working on: <b>Atala PRISM and SSI</b>
 - 👯 I’m looking to collaborate on: <b>Improving the decentralization of Block Chain Networks</b>
 - ⚡ Fun fact: <b>I love to ride and race bicycles.</b>
 
