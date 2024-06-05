@@ -17,6 +17,8 @@ Here are some ideas to get you started: -->
 
 ## Check Out my [Personal Website](https://andywoodruff6.github.io/#home)
 
+## Check Out [SSI Guide WIKI](https://ssiguide.com)
+
 ### My motto:
 DEDICATION OVER MOTIVATION
 
